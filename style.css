@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: #dde6ed;
+}
+.img {
+  position: relative;
+  top: 4px;
+}
+p {
+  font-size: 19px;
+}
+h1 {
+  height: 30px;
+}
